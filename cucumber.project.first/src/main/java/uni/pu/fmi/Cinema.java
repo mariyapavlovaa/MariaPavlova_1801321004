@@ -59,7 +59,6 @@ public class Cinema {
        
         return workingTime;
     }
-
     /**
      * @param workingTime 
      * @return
